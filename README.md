@@ -48,3 +48,4 @@ Firebase Admin SDK initialized successfully.
     -   `"serviceAccountKey.json" was not found`: This means you haven't created the file or named it incorrectly.
     -   `"serviceAccountKey.json" contains invalid JSON`: This means you didn't copy the content from the downloaded Firebase file correctly. Make sure you copy everything.
 -   **If the frontend shows "Failed to fetch":** Make sure the backend server is running in your terminal. If it's not, follow the steps above to start it.
+# joe-learn-backend
